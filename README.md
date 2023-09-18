@@ -1,2 +1,3 @@
 # hello-world-mcgechie
-biugyifdd6udu6
+This is an updated description
+**This is a bold description**
